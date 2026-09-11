@@ -1,4 +1,4 @@
-# CMPUT 301: Lab 1 Participation Exercise
+# CMPUT 301: Lab 2 ListCity
 
 ## Student Details
 - **Full Name:** `Edward Bui`
